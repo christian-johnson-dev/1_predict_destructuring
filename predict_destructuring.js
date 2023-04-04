@@ -1,6 +1,6 @@
 // CHRISTIAN JOHNSON
 // 2023-04-03
-// 'Predict Destrcutruing' Core Assignment
+// 'Predict Destructruing' Core Assignment
 
 // ? ========== Problem One  ==========
 const cars = ["Tesla", "Mercedes", "Honda"];
